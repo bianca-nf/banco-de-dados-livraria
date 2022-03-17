@@ -11,7 +11,6 @@ create database livraria;
     anoadq year,
     estado varchar(200)
     );
-    desc livros;
 
 insert into livros values('a mulher na janela', 'a.j. finn', 300, '2018', 'intriseca', '39.90', '2020', 'MG'),
 
